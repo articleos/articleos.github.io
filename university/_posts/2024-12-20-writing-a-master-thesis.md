@@ -1,8 +1,8 @@
 ---
-title: Writing a Master Thesis
+title: University
 author: articleos
 date: 2024-12-20 16:11:00 +0300
-categories: [Research, Tutorial]
+categories: [University, Tutorial]
 tags: [writing]
 ---
 
