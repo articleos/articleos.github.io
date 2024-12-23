@@ -119,8 +119,8 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: articleos/articleoscomment
-    repo_id: R_kgDONhfgKw
+    repo: "articleos/articleoscomment"
+    repo_id: "R_kgDONhfgKw"
     category: "General"
     category_id: "DIC_kwDONhfgK84CleP8"
     mapping: # optional, default to 'pathname'
