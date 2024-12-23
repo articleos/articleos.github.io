@@ -24,7 +24,7 @@ In About page on the left side on Desktop, or left Menu on Smartphone, or in thi
 
 Or, you can copy and paste following link to your browser.
 
-```link
+```markdown
 https://articleos.kayak.eu.org/about/
 ```
 {: .nolineno}
