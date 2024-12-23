@@ -70,11 +70,7 @@ Payment Method will be provided in e-mail.
 
 We will be pleased to answer your all questions.
 
-### Contact for General Inquiries
-
-If you have a question, or you want more information about ArticleOS, you can contact us through **contact@articleos.kayak.eu.org**
-
-### Contact for Advertisement
+### Contact
 
 If you want to advertise your conference, university, or university job, you can contact us with e-mail: **advertisement.articleos@gmail.com**
 
