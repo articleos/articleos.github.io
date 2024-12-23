@@ -4,6 +4,9 @@ author: articleos
 date: 2024-12-20 16:11:00 +0300
 categories: [ArticleOS, Articles]
 tags: [articleos]
+image:
+  path: /assets/img/images/welcome.png
+  alt: ArticleOS
 ---
 
 ArticleOS is a web application, developed to make Conference Announcements, and University Presentations. Our motivation for developing ArticleOS comes from that there were no a platform that International Students can find more information a University. Our goal is to be a platform where International Students can find a University List. While we were developing this platform for University Presentations, we thought it would be useful for Conference Announcements, too. Therefore, we included Conference Announcements into this platform.
@@ -24,9 +27,6 @@ title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TAG]     # TAG names should always be lowercase
-image:
-  path: /assets/img/images/welcome.png
-  alt: ArticleOS
 ---
 ```
 
