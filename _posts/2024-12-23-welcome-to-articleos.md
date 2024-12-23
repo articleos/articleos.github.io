@@ -20,7 +20,7 @@ _Welcome to ArticleOS_
 
 ## About ArticleOS
 
-In About page on the left side on Desktop, or left Menu on Smartphone, or in this link, you can find more information about [ArticleOS](https://articleos.kayak.eu.org/about/).
+In About page, on the left side on Desktop, or left Menu on Smartphone, or in this link, you can find more information about [ArticleOS](https://articleos.kayak.eu.org/about/).
 
 Or, you can copy and paste following link to your browser.
 
