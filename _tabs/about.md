@@ -6,7 +6,7 @@ order: 4
 
 ## Welcome to ArticleOS. 
 
-ArticleOS is a web application, developed to make Conference Announcements, and University Presentations.
+ArticleOS is a web application, developed to list Conference Announcements, and University Presentations.
 
 ![Desktop View](/assets/img/images/welcome-color.png){: width="1200" height="630" }
 _Welcome to ArticleOS_

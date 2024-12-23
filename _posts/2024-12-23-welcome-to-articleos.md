@@ -11,11 +11,11 @@ image:
 
 ## Welcome to ArticleOS
 
-ArticleOS is a web application, developed to make Conference Announcements, and University Presentations.
+ArticleOS is a web application, developed to list Conference Announcements, and University Presentations.
 
 ## Conference Announcements, and University Presentations
 
-ArticleOS does not aim to be a just simple platform to make Conference Advertisement or University Advertisement. Our aim is to make a platform for Students, Researchers to find all the approved information for **Conference Announcements**, and **University Presentations**.
+ArticleOS does not aim to be a just simple platform to list Conference Advertisement or University Advertisement. Our aim is to be a platform for Students, Researchers to find all the approved information for **Conference Announcements**, and **University Presentations**.
 
 ![Desktop View](/assets/img/images/welcome-color.png){: width="1200" height="630" }
 _Welcome to ArticleOS_
