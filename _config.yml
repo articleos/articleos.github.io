@@ -19,7 +19,7 @@ title: ArticleOS # the main title
 tagline: Conference Announcements, and University Presentations
 
 description: >- # used by seo meta and the atom feed
-  A platform to make Conference Announcement, and University Presentation.
+  ArticleOS is a web application, developed to make Conference Announcements, and University Presentations.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
