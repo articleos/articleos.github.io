@@ -14,7 +14,7 @@ You can announce a conference for researchers, or you can present your universit
 
 In this way, undergraduate, graduate, doctoral students, and faculty members can have detailed information about your university.
 
-To make an announcement for a Conference or to make a presentation for a Univresity, you can contact us via email.
+To make an announcement for a Conference or to make a presentation for a University, you can contact us via email.
 
 ## Price Table for Conference Announcement, and University Presentation
 

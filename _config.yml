@@ -25,11 +25,11 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://articleos.github.io"
 
-# github:
-  # username: articleos # change to your GitHub username
+github:
+  username: articleos # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: ArticleOS # change to your Twitter username
 
 social:
   # Change to your full name.
