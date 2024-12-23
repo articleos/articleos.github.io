@@ -13,10 +13,12 @@ ArticleOS is a web application, developed to make Conference Announcements, and 
 
 ## Conference Announcements, and University Presentations
 
-![Desktop View](/assets/img/images/welcome.png){: width="1200" height="630" }
-_Full screen width and center alignment_
-
 ArticleOS does not aim to be a just simple platform to make Conference Advertisement or University Advertisement. Our aim is to make a platform for Students, Researchers to find all the approved information for **Conference Announcements** or **University Presentations**.
+
+![Desktop View](/assets/img/images/welcome-color.png){: width="1200" height="630" }
+_Welcome to ArticleOS_
+
+
 
  {: .filepath} and put it in the `_posts`{: .filepath} of the root directory. Please note that the `EXTENSION`{: .filepath} must be one of `md`{: .filepath} and `markdown`{: .filepath}. If you want to save time of creating files, please consider using the plugin [`Jekyll-Compose`](https://github.com/jekyll/jekyll-compose) to accomplish this.
 
