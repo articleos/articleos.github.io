@@ -9,8 +9,6 @@ image:
   alt: ArticleOS
 ---
 
-## Welcome to ArticleOS
-
 ArticleOS is a web application, developed to list Conference Announcements, and University Presentations.
 
 ## Conference Announcements, and University Presentations
