@@ -33,10 +33,10 @@ Width="1200"    Height="630"
 
 The following table shows the price table.
 
-| Advertisement             | Description           | Price    |
-|---------------------------|:---------------------:|:---------|
-| Conference                | One Time              |  300 $   |
-| University                | Yearly Subscription   | 1290 $   |
+| Advertising         | Description                       | Price       |
+|---------------------|:---------------------------------:|:-----------:|
+| Conference          | One Time Payment                  |  390 $      |
+| University          | Yearly Subscription               | 1290 $      |
 
 <!-- markdownlint-disable-next-line -->
 >  Tax Excluded.
