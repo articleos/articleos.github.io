@@ -1,5 +1,5 @@
 ---
-title: Welcome to ArticleOS
+title: Welcome to ArticleOS (A Platform for Conference Announcements, and for University Presentations)
 author: articleos
 date: 2024-12-20 16:11:00 +0300
 categories: [ArticleOS, Articles]
