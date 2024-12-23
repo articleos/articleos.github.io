@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: ArticleOS
-  email: contact@articleos.kayak.eu.org # change to your email address
+  email: advertisement.articleos@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: articleos/articleos-comment
+    repo_id: R_kgDONhfFZQ
+    category: General
+    category_id: DIC_kwDONhfFZc4CleOD
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'

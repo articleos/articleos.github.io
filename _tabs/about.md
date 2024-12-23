@@ -53,13 +53,13 @@ The following table shows the price table:
 >  Yearly Subscription for University indicates price for each year.
 {: .prompt-info }
 
->  Conference will be publised at [ConferenceList](https://articleos.kayak.eu.org/conferencelist/).
+>  Conference Announcement will be publised at [ConferenceList](https://articleos.github.io/conferencelist/).
 {: .prompt-info }
 
->   will be publised at [UniversityList](https://articleos.kayak.eu.org/universitylist/).
+>  University Presentation will be publised at [UniversityList](https://articleos.github.io/universitylist/).
 {: .prompt-info }
 
->  Conference will be publised at [UJobList](https://articleos.kayak.eu.org/ujoblist/).
+>  University Job will be publised at [UJobList](https://articleos.github.io/ujoblist/).
 {: .prompt-info }
 
 ## Payment Method
@@ -76,13 +76,7 @@ If you have a question, or you want more information about ArticleOS, you can co
 
 ### Contact for Advertisement
 
-If you want to advertise your conference, university, or university job, you can contact us through
-
-for Conference: **conferencelist@.articleos.kayak.eu.org**
-
-for University: **universitylist@articleos.kayak.eu.org**
-
-for Job: **ujoblist@articleos.kayak.eu.org**
+If you want to advertise your conference, university, or university job, you can contact us with e-mail: **advertisement.articleos@gmail.com**
 
 > ArticleOS Team.
 {: .prompt-tip }
