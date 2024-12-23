@@ -6,17 +6,17 @@ order: 4
 
 ## Welcome to ArticleOS. 
 
-ArticleOS is an application developed to make Conference Announcements, and University Advertisements.
+ArticleOS is a web application, developed to make Conference Announcements, and University Presentations.
 
-### Conference Announcement & University Advertisement
+### Conference Announcement & University Presentation
 
-You can announce a conference for researchers, or you can advertise your university for international students to get to know more about your international departments with ArticleOS.
+You can announce a conference for researchers, or you can present your university for international students to get to know more about your international departments with ArticleOS.
 
-In this way, undergraduate, graduate, doctoral students and faculty members can have detailed information about your university.
+In this way, undergraduate, graduate, doctoral students, and faculty members can have detailed information about your university.
 
-To make an announcement for a Conference or to make an advertisement for a Univresity, you can contact us via email.
+To make an announcement for a Conference or to make a presentation for a Univresity, you can contact us via email.
 
-## Price Table
+## Price Table for Conference Announcement, and University Presentation
 
 The following table shows the price table.
 
@@ -26,7 +26,9 @@ The following table shows the price table.
 | University          | Yearly Subscription               |  1290 $      |
 
 <!-- markdownlint-disable-next-line -->
->  The first update is free of charge of each year. Then, each update within one year is 120 $.
+>  The first update is free of charge of each year. Then, each update within one year is 120 $. Yearly Subscription for University indicates price for each year.
+{: .prompt-info }
+
 >  Yearly Subscription for University indicates price for each year.
 {: .prompt-info }
 
