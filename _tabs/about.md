@@ -31,7 +31,7 @@ Width="1200"    Height="630"
 
 ## Price Table for Conference Announcements, and University Presentations
 
-The following table shows the price table.
+The following table shows the price table:
 
 | Advertising         | Description                       | Price       |
 |---------------------|:---------------------------------:|:-----------:|
@@ -47,9 +47,6 @@ The following table shows the price table.
 
 >  Yearly Subscription for University indicates price for each year.
 {: .prompt-info }
-
-> ArticleOS Team.
-{: .prompt-tip }
 
 ## Payment Method
 
@@ -70,3 +67,6 @@ If you want to advertise your conference or university, you can contact us throu
 for Conference: **conference-announcement@.articleos.kayak.eu.org**
 
 for University: **university-presentation@articleos.kayak.eu.org**
+
+> ArticleOS Team.
+{: .prompt-tip }
