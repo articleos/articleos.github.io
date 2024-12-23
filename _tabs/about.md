@@ -23,6 +23,12 @@ To make a Conference Announcement, or to make a University Presentation, you can
 
 In order to post a `Conference Announcment` or `University Presentation`, please send us your file in Microsoft Word File Format. Our e-mail addresses are in Contact section below.
 
+## Image Size
+
+While sending your Microsoft Word File, the image size for each image should be as below:
+
+Width="1200"    Height="630"
+
 ## Price Table for Conference Announcements, and University Presentations
 
 The following table shows the price table.
