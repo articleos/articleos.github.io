@@ -26,10 +26,9 @@ Or, you can copy and paste following link to your browser.
 
 About ArticleOS
 
-```
----
-https://articleos.kayak.eu.org/about/
----
-```
+  ```Link
+  https://articleos.kayak.eu.org/about/
+  ```
+  {: file='_config.yml' .nolineno }
 
 With above link, you can get know know more about ArticleOS, including, how to make a Conference Announcement or University Presentation at ArticleOS.

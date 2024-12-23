@@ -55,12 +55,12 @@ We will be pleased to answer your all questions.
 
 ### Contact for General Inquiries
 
-If you have a question, or you want more information about ArticleOS, you can contact us through **contact@kayak.eu.org**
+If you have a question, or you want more information about ArticleOS, you can contact us through **contact@articleos.kayak.eu.org**
 
 ### Contact for Advertisement
 
 If you want to advertise your conference or university, you can contact us through
 
-for Conference: **conference-advertisement@kayak.eu.org**
+for Conference: **conference-announcement@.articleos.kayak.eu.org**
 
-for University: **university-advertisement@kayak.eu.org**
+for University: **university-presentation@articleos.kayak.eu.org**
