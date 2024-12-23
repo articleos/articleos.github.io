@@ -16,10 +16,10 @@ timezone:
 
 title: ArticleOS # the main title
 
-tagline: Conference Announcements, and University Presentations
+tagline: Conference Announcements, University Presentations, and University Jobs
 
 description: >- # used by seo meta and the atom feed
-  ArticleOS is a web application, developed to make Conference Announcements, and University Presentations.
+  ArticleOS is a web application, developed to list Conference Announcements, University Presentations, and University Jobs.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
