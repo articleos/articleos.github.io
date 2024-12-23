@@ -108,8 +108,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  active: giscus
-  provider: # [disqus | utterances | giscus]
+  provider: giscus
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
