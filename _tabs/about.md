@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Welcome to ArticleOS. 
+## Welcome to ArticleOS
 
 ArticleOS is a web application, developed to list Conference Announcements, and University Presentations.
 
