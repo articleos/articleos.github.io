@@ -24,9 +24,12 @@ In About page on the left side on Desktop, or left Menu on Smartphone, or in thi
 
 Or, you can copy and paste following link to your browser.
 
-```About ArticleOS
+About ArticleOS
+
+```
 ---
 https://articleos.kayak.eu.org/about/
 ---
 ```
+
 With above link, you can get know know more about ArticleOS, including, how to make a Conference Announcement or University Presentation at ArticleOS.

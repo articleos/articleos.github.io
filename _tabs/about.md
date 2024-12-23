@@ -27,10 +27,10 @@ In order to post a `Conference Announcment` or `University Presentation`, please
 
 The following table shows the price table.
 
-| Products                  | Description           | Price    |
+| Advertisement             | Description           | Price    |
 |---------------------------|:---------------------:|:---------|
-| Conference Announcement   | One Time              |  300 $   |
-| University Presentation   | Yearly Subscription   | 1290 $   |
+| Conference                | One Time              |  300 $   |
+| University                | Yearly Subscription   | 1290 $   |
 
 <!-- markdownlint-disable-next-line -->
 >  Tax Excluded.
