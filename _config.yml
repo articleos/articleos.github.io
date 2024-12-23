@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ArticleOS # the main title
+title: Conference Announcements and University Presentations - ArticleOS # the main title
 
-tagline: For Conference Announcements, and University Advertisements
+tagline: Conference Announcements, and University Presentations
 
 description: >- # used by seo meta and the atom feed
-  A platform to make Conference Announcement, and University Advertisement.
+  A platform to make Conference Announcement, and University Presentation.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
