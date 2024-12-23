@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: articleos/articleos-comment
     repo_id: R_kgDONhfFZQ
-    category: General
-    category_id: DIC_kwDONhfFZc4CleOD
+    category: "General"
+    category_id: "DIC_kwDONhfFZc4CleOD"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
