@@ -1,13 +1,15 @@
 ---
 title: Welcome to ArticleOS
 author: articleos
-date: 2024-12-20 16:11:00 +0300
-categories: [ArticleOS, Articles]
+date: 2024-12-23 14:49:00 +0300
+categories: [ArticleOS, Article]
 tags: [articleos]
 image:
   path: /assets/img/images/welcome.png
   alt: ArticleOS
 ---
+
+## Welcome to ArticleOS
 
 ArticleOS is a web application, developed to make Conference Announcements, and University Presentations.
 
@@ -29,4 +31,7 @@ https://articleos.kayak.eu.org/about/
 ```
 {: .nolineno}
 
-With above link, you can get know know more about ArticleOS, including, how to make a Conference Announcement or University Presentation at ArticleOS.
+With above link, you can get to know more about ArticleOS, including, how to make a Conference Announcement or University Presentation at ArticleOS.
+
+> ArticleOS Team.
+{: .prompt-tip }
